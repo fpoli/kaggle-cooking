@@ -1,0 +1,10 @@
+# Temporary files
+*~
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data
+data/
+inspect/
